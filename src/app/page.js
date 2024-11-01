@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import {
   Menu,
@@ -103,7 +104,7 @@ const Portfolio = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16 items-center">
             <span className="text-2xl font-bold tracking-tight">
-              John Developer
+              Chijikem Christopher Agu
             </span>
 
             <div className="flex items-center space-x-4">
